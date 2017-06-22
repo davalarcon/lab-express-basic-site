@@ -1,0 +1,18 @@
+body{
+  background-color: PALETURQUOISE;
+}
+
+h1{
+  color:red;
+}
+h2{
+  color: green;
+}
+
+.about{
+  width: 500px;
+}
+
+.pictures{
+  width: 500px;
+}
